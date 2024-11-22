@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamal Deep</h1>
-<h3 align="center">Dedicated Software Engineer from India</h3>
+<!-- <h3 align="center">Dedicated Software Engineer from India</h3> -->
+<h3 align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=A+Passionate+Coder+From+India+✌;Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" />
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepgautam76&label=Profile%20views&color=0e75b6&style=flat" alt="deepgautam76" /> </p>
 
